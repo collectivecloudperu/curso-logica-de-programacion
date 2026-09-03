@@ -1,4 +1,4 @@
-# Curso de Lógica de Programación
+# Curso de Lógica de Programación en JavaScript
 
 Minicurso práctico para aprender a **pensar como programador**, usando JavaScript como lenguaje de práctica. La lógica que aprendas aquí aplica igual para Python, Java, C# o cualquier otro lenguaje — solo cambia la sintaxis.
 
